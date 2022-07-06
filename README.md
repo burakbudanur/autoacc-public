@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/511139485.svg)](https://zenodo.org/badge/latestdoi/511139485)
+
 # autoacc-public
 Codes and data for reproducing the results of 
 
