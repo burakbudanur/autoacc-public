@@ -138,4 +138,4 @@ axes[1].legend()
 plt.tight_layout()
 fig.savefig("bootstrap.png", dpi=150)
 
-# plt.show()
+plt.show()

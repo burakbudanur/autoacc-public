@@ -91,4 +91,4 @@ for i, par_i in enumerate(fit_pars):
 # fig.tight_layout()
 fig.savefig("parameter_scatter.png", dpi=150)
 
-# plt.show()
+plt.show()
